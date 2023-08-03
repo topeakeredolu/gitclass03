@@ -5,8 +5,10 @@ public class Main {
         if(productAvailable){
             System.out.println("yes");
         }else{
-            System.out.println("no"); 
+            System.out.println("no");
         }
+
+        System.out.println("the code is complete");
 
     }
 }
